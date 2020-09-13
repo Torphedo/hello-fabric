@@ -1,5 +1,6 @@
 # Operator's Join Chat Mod
 Yayayaayayayayayayayayayay! I finally made my first mo- Ah! 'Ello! Aanyway...
+This is a Fabric mod.
 
 ## Setup
 Just plop the thing into your mods folder. No setup needed.

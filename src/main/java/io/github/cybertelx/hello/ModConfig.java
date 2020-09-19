@@ -1,5 +1,7 @@
 package io.github.cybertelx.hello;
 
+import java.util.ArrayList;
+
 import me.sargunvohra.mcmods.autoconfig1u.ConfigData;
 import me.sargunvohra.mcmods.autoconfig1u.annotation.ConfigEntry;
 import me.sargunvohra.mcmods.autoconfig1u.shadowed.blue.endless.jankson.Comment;

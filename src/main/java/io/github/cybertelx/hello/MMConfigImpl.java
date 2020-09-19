@@ -1,4 +1,4 @@
-package io.github.cybertelx.operatorjoinchatmod;
+package io.github.cybertelx.hello;
 
 import io.github.prospector.modmenu.api.ConfigScreenFactory;
 import io.github.prospector.modmenu.api.ModMenuApi;

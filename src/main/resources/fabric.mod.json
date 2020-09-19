@@ -1,31 +1,30 @@
 {
   "schemaVersion": 1,
-  "id": "opjoinchatmod",
+  "id": "hello",
   "version": "${version}",
 
-  "name": "Operator's On-Join Chat Mod",
-  "description": "real crappy code right here",
+  "name": "Hello!",
+  "description": "A mod that sends a chat message when you join a server.",
   "authors": [
     "OperatorTheDope"
   ],
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
-
+  "icon": "assets/hello/icon.png",
   "environment": "*",
   "entrypoints": {
     "client": [
-      "io.github.cybertelx.operatorjoinchatmod.OperatorJoinChatMod"
+      "io.github.cybertelx.hello.HelloMod"
     ],
     "modmenu": [
-	"io.github.cybertelx.operatorjoinchatmod.MMConfigImpl"
+	"io.github.cybertelx.hello.MMConfigImpl"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "hello.mixins.json"
   ],
 
   "depends": {
-    "fabricloader": ">=0.7.4",
+    "fabricloader": "*",
     "fabric": "*",
     "minecraft": "1.16.x"
   },

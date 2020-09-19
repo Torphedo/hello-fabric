@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "io.github.cybertelx.operatorjoinchatmod.mixin",
+  "package": "io.github.cybertelx.hello.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
   ],

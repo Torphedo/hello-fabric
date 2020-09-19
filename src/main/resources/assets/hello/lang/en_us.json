@@ -1,5 +1,6 @@
 {
-  "text.autoconfig.opjoinchatmod.option.message": "Message",
-  "text.autoconfig.opjoinchatmod.option.toggle": "Toggle",
-  "text.autoconfig.opjoinchatmod.title": "Operator's Join Chat Mod"
+  "text.autoconfig.hello.option.message": "Message",
+  "text.autoconfig.hello.option.toggle": "Toggle",
+  "text.autoconfig.hello.title": "Operator's Join Chat Mod",
+  "text.autoconfig.hello.option.sendSP": "Singleplayer Toggle"
 }

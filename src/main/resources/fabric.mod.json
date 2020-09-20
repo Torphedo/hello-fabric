@@ -2,13 +2,12 @@
   "schemaVersion": 1,
   "id": "hello",
   "version": "${version}",
-
   "name": "Hello!",
   "description": "A mod that sends a chat message when you join a server.",
   "authors": [
     "OperatorTheDope"
   ],
-  "license": "CC0-1.0",
+  "license": "MIT",
   "icon": "assets/hello/icon.png",
   "environment": "*",
   "entrypoints": {
@@ -16,7 +15,7 @@
       "io.github.cybertelx.hello.HelloMod"
     ],
     "modmenu": [
-	"io.github.cybertelx.hello.MMConfigImpl"
+      "io.github.cybertelx.hello.MMConfigImpl"
     ]
   },
   "mixins": [

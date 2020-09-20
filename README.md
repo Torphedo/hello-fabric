@@ -11,3 +11,7 @@ You need Mod Menu if you want to change the message.
 
 ## What does this do?
 It sends a customizable message when you join a server.
+
+## Dependencies
+This mod depends on Fabric API and Cloth Config.
+[Download a version of Cloth Config for your Minecraft version here.](https://www.curseforge.com/minecraft/mc-mods/cloth-config/)
